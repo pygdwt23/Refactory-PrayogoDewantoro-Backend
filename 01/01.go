@@ -1,5 +1,5 @@
-package refactory
+package main
 
-func main () {
+func main() {
 
 }

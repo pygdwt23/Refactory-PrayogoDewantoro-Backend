@@ -1,10 +1,10 @@
-// package main
+package main
 
-// import (
-// 	"fmt"
-// 	"strings"
-// )
+import (
+	"fmt"
+	"strings"
+)
 
-// func main() {
-// 	fmt.Println(strings.Count("Mammals","Bruiser build"))
-// }
+func main() {
+	fmt.Println(strings.Count("Mammals","Bruiser build"))
+}
